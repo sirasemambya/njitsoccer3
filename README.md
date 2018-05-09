@@ -1,7 +1,7 @@
 NJIT soccer
 =========
 
-Working demo at http://ec2-18-188-137-154.us-east-2.compute.amazonaws.com/html/NJITsoccer2/
+Working demo at http://ec2-18-218-1-17.us-east-2.compute.amazonaws.com/NJITsoccer3/index.php
 
 NJIT soccer is a soccer league management system that allows owners to create a league and add teams, coaches edit their rosters, and fans check out the latest stats from the league.
 
