@@ -11,7 +11,7 @@ Bootstrap template
 
 ## Installation
 ### Clone the Repository
-    $ git clone --recursive https://github.com/sirasemambya/njitsoccer2.git
+    $ git clone --recursive https://github.com/sirasemambya/njitsoccer3.git
 
 ## Feature Overview
 
